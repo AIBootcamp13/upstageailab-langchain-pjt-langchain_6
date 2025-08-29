@@ -104,6 +104,10 @@ upstageailab-langchain-pjt-langchain_6/
 
 
 
+https://github.com/user-attachments/assets/8a5c2b2f-9096-4691-8edf-ca9beaf23719
+
+
+
 ## 🛠️ 작품 아키텍처(필수X)
 
 ![architecture](https://github.com/AIBootcamp13/upstageailab-langchain-pjt-langchain_6/blob/main/docs/architecture.png)
